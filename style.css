@@ -709,7 +709,8 @@ max-width: 100%;
 }
 .testimonials .testimonials-content .testi-slider .slide .img{
 	flex:0 0 128px;
-	max-width:128px;
+	width: 1px;
+	height:1px;
 }
 .testimonials .testimonials-content .testi-slider .slide p{
  font-size: 15px;
